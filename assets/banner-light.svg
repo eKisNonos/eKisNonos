@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="ek. Privacy is a property of the system, not a promise.">
+  <defs>
+    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#eef0f2" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#fbfbfa"/>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <g stroke="#d0d7de" stroke-width="1.4" fill="none">
+    <path d="M1010 60 L930 120 M1010 60 L1090 120"/>
+    <path d="M930 120 L890 180 M930 120 L970 180 M1090 120 L1050 180 M1090 120 L1130 180"/>
+    <path d="M890 180 L870 240 M890 180 L910 240 M970 180 L950 240 M970 180 L990 240 M1050 180 L1030 240 M1050 180 L1070 240 M1130 180 L1110 240 M1130 180 L1150 240"/>
+  </g>
+  <g fill="#fbfbfa" stroke="#8c959f" stroke-width="1.4">
+    <circle cx="1010" cy="60" r="7" fill="#1f2328" stroke="#1f2328"/>
+    <circle cx="930" cy="120" r="5"/><circle cx="1090" cy="120" r="5"/>
+    <circle cx="890" cy="180" r="4"/><circle cx="970" cy="180" r="4"/><circle cx="1050" cy="180" r="4"/><circle cx="1130" cy="180" r="4"/>
+  </g>
+  <g fill="#d0d7de">
+    <rect x="866" y="236" width="8" height="8"/><rect x="906" y="236" width="8" height="8"/><rect x="946" y="236" width="8" height="8"/>
+    <rect x="986" y="236" width="8" height="8" fill="#1f2328"/>
+    <rect x="1026" y="236" width="8" height="8"/><rect x="1066" y="236" width="8" height="8"/><rect x="1106" y="236" width="8" height="8"/><rect x="1146" y="236" width="8" height="8"/>
+  </g>
+  <path d="M990 240 L970 180 L930 120 L1010 60" stroke="#1f2328" stroke-width="1.6" fill="none" stroke-dasharray="3 4"/>
+  <rect x="72" y="82" width="56" height="56" rx="10" fill="#1f2328"/>
+  <text x="100" y="121" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#fbfbfa">Ø</text>
+  <text x="156" y="124" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#1f2328" letter-spacing="1">ek</text>
+  <text x="74" y="178" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22" fill="#424a53">Privacy is a property of the system, not a promise.</text>
+  <text x="74" y="222" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#6e7781" letter-spacing="2">NØNOS  ·  STARKS  ·  KERNELS  ·  ANONYMITY NETWORKS  ·  LEAN 4</text>
+</svg>
